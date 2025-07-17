@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to Our Blog",
+      "datetime": "July 16, 2021 11:47:39 AM",
+      "body": "Welcome to our brand new blog! Stay tuned for exciting updates, tutorials, and announcements."
+    },
+    {
+      "id": "2",
+      "title": "Getting Started with React",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "In this post, we’ll walk through the basics of React including components, props, and state management."
+    },
+    {
+      "id": "3",
+      "title": "Understanding JavaScript Closures",
+      "datetime": "July 16, 2021 11:48:01 AM",
+      "body": "Closures are a powerful feature in JavaScript. This guide explains how they work and when to use them."
+    },
+    {
+      "id": "4",
+      "title": "Fitness & Focus",
+      "datetime": "July 16, 2025 10:52:10 AM",
+      "body": "Starting your day with a workout can improve your mood and productivity. Here's how to stay consistent."
+    },
+    {
+      "id": "5",
+      "title": "Motivation to Keep Going",
+      "datetime": "July 17, 2025 11:54:23 AM",
+      "body": "You're doing great! Keep pushing forward — every small effort counts toward your goals."
+    },
+    {
+      "id": "6",
+      "title": "How to Build a React App",
+      "datetime": "July 17, 2025 11:56:15 AM",
+      "body": "Learn how to scaffold a modern React application using Create React App and best practices."
+    },
+    {
+      "id": "7",
+      "title": "Quick Check-in",
+      "datetime": "July 17, 2025 12:12:00 PM",
+      "body": "Just saying hey! Let us know what you're building today in the comments below."
+    },
+    {
+      "id": "8",
+      "title": "Stay Connected",
+      "datetime": "July 17, 2025 12:14:57 PM",
+      "body": "We’re launching new features soon. Follow along for updates and sneak peeks!"
+    }
+  ]
+}
